@@ -2,6 +2,7 @@
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
+google colab,laptop.
 # Program
 ```
 #FSK
@@ -87,8 +88,9 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/2423bfe9-ed3c-4e9a-8e38-82727d061daf)
 
-# Results
-```
-Attach the output waveform
-```
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-04-23 at 13 57 07_56979d08](https://github.com/user-attachments/assets/c41ef4c5-594c-4da9-afd4-893b027287a5)
+
+# Results
+Thus the Frequency Shift Keying(FSK) is made with colab and hardware experiment.
+
